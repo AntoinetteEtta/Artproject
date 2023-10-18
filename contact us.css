@@ -1,0 +1,7 @@
+*
+.content-items img{
+    width: 2%;
+    height: 4%;
+    background-size: cover;
+    float: center;
+}
